@@ -15,7 +15,7 @@
 ## **Our Solution: Stat IQ**
 
 **Stat IQ** is the **next-generation AI-powered Business Intelligence tool** that **automates the entire BI workflow**, from data collection to real-time, actionable insights.  
-Our tool **eliminates manual effort**, **reduces operational costs**, and makes **data insights accessible to everyone**—no technical expertise required.
+Our tool powered by Meta LLaMA 3.1 **eliminates manual effort**, **reduces operational costs**, and makes **data insights accessible to everyone**—no technical expertise required.
 
 ### **How Stat IQ Works:**
 1. **Upload Your Data**: Simply drag-and-drop your datasets.
@@ -26,9 +26,8 @@ Our tool **eliminates manual effort**, **reduces operational costs**, and makes 
 
 ### **Key Features:**
 - **Automated Data Processing**: No need to manually clean or transform data—Stat IQ handles it all.
-- **Real-Time Data Updates**: Dashboards and reports automatically update in real-time for the most accurate insights.
 - **AI-Powered Insights**: Automatically generate business recommendations, saving time and eliminating errors.
-- **Scalability & Flexibility**: Stat IQ adapts to any dataset size and complexity without extra effort.
+- **Scalability & Flexibility**: Stat IQ adapts to any dataset type and complexity without extra effort.
 
 ## **Why Stat IQ?**
 
@@ -59,14 +58,9 @@ Stat IQ scales effortlessly as your data grows. It **reduces reliance on manual 
 2. **Generative AI**:  
    Using AI for tasks like data cleaning, EDA, and report generation, Stat IQ ensures accuracy while eliminating human errors.
 
-3. **Real-Time Updates**:  
-   Dashboards and reports are updated continuously, ensuring your data is always current.
-
-4. **Business Recommendations**:  
+3. **Business Recommendations**:  
    Stat IQ doesn’t just visualize your data; it generates **AI-driven business recommendations**, giving you the insights to make smarter decisions faster.
 
-5. **Scalable Solution**:  
-   The system grows with your business, handling increasing data complexity without additional configuration or infrastructure.
 
 ## 🛠️ **How to Get Started**
 
