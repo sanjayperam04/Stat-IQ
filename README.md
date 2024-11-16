@@ -1,87 +1,102 @@
-# Stat IQ: Automated Business Intelligence Dashboard
+# **Stat IQ: Automated Business Intelligence Dashboard**  
 
-Stat IQ is a Streamlit-based application that automates data analysis, visualization, and the creation of dashboards. By uploading your data, the app handles the entire process, providing insights, visualizations, and business recommendations.
+> **Streamline data analysis, visualization, and decision-making with ease.**  
+> A complete end-to-end solution for automated data cleaning, exploration, dashboard creation, and actionable insights.  
 
-## Features
+---
 
-- **Data Overview**: Get a quick summary of your data, including the number of rows, columns, data types, and summary statistics.
-- **Data Cleaning & EDA**: Automatically generate and execute code for data cleaning and exploratory data analysis (EDA).
-- **Visualization Dashboard**: Create a comprehensive dashboard with key graphs and plots based on your data.
-- **Chatbot Interaction**: Interact with your data through a chatbot to generate custom visualizations and insights.
-- **Business Recommendations**: Receive actionable business recommendations based on your dataset.
+## 🚀 **Features**  
 
-## Installation
+### **Effortless Data Management**  
+- Upload your dataset and let the system handle everything—from cleaning to visualization.  
 
-### Prerequisites
+### **AI-Generated Code**  
+- Automatically generates optimized code for data cleaning and processing.  
 
-Make sure you have Python 3.7 or above installed on your system.
+### **Interactive Dashboards**  
+- Creates comprehensive dashboards to visualize key metrics and trends.  
 
-### Step 1: Clone the Repository
+### **Personalized Chatbot Interaction**  
+- Generate custom visualizations and summaries by asking questions in plain English.  
+
+### **Actionable Insights**  
+- Provides business recommendations tailored to your dataset.  
+
+### **Real-Time Updates**  
+- Ensures dashboards and insights are always up-to-date.  
+
+---
+
+## 🎯 **What makes Stat-IQ Different?**
+
+1. **End-to-End Automation**  
+   Automates the entire Business Intelligence (BI) workflow.  
+
+2. **Generative AI for Reports**  
+   Reduces manual work by auto-generating reports and code.  
+
+3. **Real-Time Insights**  
+   Dynamically adapts to new data sources and provides instant updates.  
+
+4. **Cost Efficiency**  
+   Minimizes reliance on technical expertise and human resources.  
+
+5. **Scalability**  
+   Handles increasing data volumes effortlessly.  
+
+---
+
+## 🔍 **Working Demo**  
+
+1. **Upload Your Dataset**  
+   Drag and drop your data to get started.  
+
+2. **Automated Data Cleaning**  
+   The system identifies and fixes issues like missing values, duplicates, and more.  
+
+3. **Exploratory Data Analysis (EDA)**  
+   Get a quick overview of your dataset, including summary statistics and trends.  
+
+4. **Visualizations & Dashboards**  
+   Instantly generate interactive dashboards with graphs, charts, and KPIs.  
+
+5. **Insights & Recommendations**  
+   Receive actionable suggestions to enhance your business strategies.  
+
+---
+
+## 🛠️ **Installation**  
+
+### **Prerequisites**  
+- Python 3.7 or higher installed on your system.  
+
+### **Setup**  
 
 ```bash
-git clone https://github.com/yourusername/stat-iq.git
-cd stat-iq
+# Clone the repository  
+git clone https://github.com/yourusername/stat-iq.git  
+
+# Navigate to the project directory  
+cd stat-iq  
+
+# Install dependencies  
+pip install -r requirements.txt  
+
+# Run the application  
+streamlit run FinalCode.py  
 ```
 
-2. Install the required packages:
-    ```bash
-    pip install streamlit pandas matplotlib groq plotly
-    ```
+## 🤝 **Contributing**  
 
-### Usage
+We welcome contributions!  
+- Fork the repository  
+- Create a new branch for your feature or fix  
+- Submit a pull request  
 
-1. Run the Streamlit application:
-    ```bash
-    streamlit run FinalCode.py
-    ```
+---
 
-2. Open your browser and go to `http://localhost:8501`.
+## 📄 **License**  
 
-3. Upload your dataset and let the system handle the analysis and cleaning.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
-## Team Members
-
-- [Rupin Ajay](https://github.com/lucyfier56)
-- [Sukrith P.V.S](https://github.com/sukrithpvs)
-- [Rudra Panda](https://github.com/lucyfier56)
-- [Sanjay P N](https://github.com/sanjayperam04)
-
-
-
-# Working Model Snapshota
-
-## Home Page - When uploaded a dataset , A data preview is given
-(![image](https://github.com/user-attachments/assets/2b0a679d-ea8e-4f8c-b4bd-85824aa5fe4f)
-
-
-
-## Model Generates Code for data cleaning, pre-processing and transformations by thorough analysis of the Dataset Uploaded
-![image](https://github.com/user-attachments/assets/6da08c3b-0a6a-4942-88be-3574e0770cc7)
-
-
-## Cleaned Dataset Preview 
-![image](https://github.com/user-attachments/assets/4fe4291e-dd0a-4c73-995d-59c2f72991d3)
-
-## Model recommends and generates visualisations code for creating an Analytical Dashboard
-![image](https://github.com/user-attachments/assets/7d0c7719-a971-4dd4-9656-25bde29b783d)
-
-
-
-## Generated Analytical Dashboard 
-![image](https://github.com/user-attachments/assets/67b5a239-a222-45de-b311-980baf47fa79)
-
-## Users can ask required personalised prompts for any plots or summaries from the dataset
-![WhatsApp Image 2024-08-22 at 08 28 19_a1bfb743](https://github.com/user-attachments/assets/4f275f03-ef32-4d1b-b3d7-b7d6415dd70e)
-
-## Generated Response for the user queries 
-![WhatsApp Image 2024-08-22 at 08 30 11_d1126898](https://github.com/user-attachments/assets/b8ff2b16-be34-4f29-8340-6f9aef9a5dc7)
-
-
-## Generated Business Insights and Recommendations 
-![image](https://github.com/user-attachments/assets/a843ec78-7a15-483d-a296-c4f91b3ca3cc)
-
-
-
-
-
-
+---
